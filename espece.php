@@ -14,19 +14,19 @@
     <div class="container">
         <div class="cercle">
             <div class="dot">
-                <p>+ DE 30 ESPECE</p>
+                <p>+ DE 30 GENRES</p>
             </div>
             <div class="dot">
-                <p>+ DE 30 ESPECE</p>
+                <p>+ 20 XHISPANICA</p>
             </div>
         </div>
         
         <div class="cercle2">
             <div class="dot">
-                <p>+ DE 30 ESPECE</p>
+                <p>+ DE 10 SYLVATICA</p>
             </div>
             <div class="dot">
-                <p>+ DE 30 ESPECE</p>
+                <p>+ DE 8 LIBANIS ET BILOBA</p>
             </div>
         </div>
         

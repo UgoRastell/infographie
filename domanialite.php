@@ -26,7 +26,7 @@
                 <p>+ DE 10 ALIGNEMENT</p>
             </div>
             <div class="dot">
-                <p>+ DE 30 ESPECE</p>
+                <p>LE DJS  INUTILISE</p>
             </div>
         </div>
         

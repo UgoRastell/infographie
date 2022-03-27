@@ -17,16 +17,16 @@
                 <p>+ DE 30 ESPECE</p>
             </div>
             <div class="dot">
-                <p>+ DE 30 ESPECE</p>
+                <p>+ DE 30 PLATANE</p>
             </div>
         </div>
         
         <div class="cercle2">
             <div class="dot">
-                <p>+ DE 30 ESPECE</p>
+                <p>+ DE 5 MARRONNIER</p>
             </div>
             <div class="dot">
-                <p>+ DE 30 ESPECE</p>
+                <p>+ DE 5 SEQUOIA</p>
             </div>
         </div>
         
